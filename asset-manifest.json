@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/askon_alue/static/css/main.389aee95.css",
+    "main.js": "/askon_alue/static/js/main.cbe2ea52.js",
+    "static/js/787.60495aa5.chunk.js": "/askon_alue/static/js/787.60495aa5.chunk.js",
+    "index.html": "/askon_alue/index.html",
+    "main.389aee95.css.map": "/askon_alue/static/css/main.389aee95.css.map",
+    "main.cbe2ea52.js.map": "/askon_alue/static/js/main.cbe2ea52.js.map",
+    "787.60495aa5.chunk.js.map": "/askon_alue/static/js/787.60495aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.389aee95.css",
+    "static/js/main.cbe2ea52.js"
+  ]
+}
