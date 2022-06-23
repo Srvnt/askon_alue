@@ -7,16 +7,7 @@ const QUERY = `
   stop(id: "Lahti:207190") {
     name
     stoptimesWithoutPatterns(numberOfDepartures: 50) {
-      stop {
-        platformCode
-      }
       scheduledArrival
-      scheduledDeparture
-      trip {
-        route {
-          shortName
-        }
-      }
       headsign
     }
   }
